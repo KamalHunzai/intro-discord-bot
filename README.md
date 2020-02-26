@@ -4,7 +4,7 @@
 
 * [x] Setup project / dependencies
   * npm i discord.js dotenv
-* [ ] Setup eslint
+* [x] Setup eslint
   * npm i -D eslint
   * npx eslint --init
 * [ ] Create a Discord Application / Bot
