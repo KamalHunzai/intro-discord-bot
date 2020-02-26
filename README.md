@@ -2,7 +2,7 @@
 
 ## TODO
 
-* [ ] Setup project / dependencies
+* [x] Setup project / dependencies
   * npm i discord.js dotenv
 * [ ] Setup eslint
   * npm i -D eslint
